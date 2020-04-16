@@ -12,6 +12,7 @@ Implementations of basic RL algorithms with minimal lines of codes! (PyTorch bas
 
 
 
+
 ## Algorithms
 1. [REINFORCE](https://github.com/seungeunrho/minimalRL/blob/master/REINFORCE.py) (67 lines)
 2. [Vanilla Actor-Critic](https://github.com/seungeunrho/minimalRL/blob/master/actor_critic.py) (98 lines)
